@@ -1,0 +1,1 @@
+Screenshot is saved in - C:\Users\subassan\PycharmProjects\mobile_aautomation_pytest_bdd\screenshots\test_delete_folder

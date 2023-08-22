@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Aug 17 18:06:27 IST 2023","Thu Aug 17 18:06:33 IST 2023","6062","src.python.tests","test_TC_002_create_folder","","","","test_createFolder","create_folder.feature: Create_folder"
+"failed","Thu Aug 17 18:06:58 IST 2023","Thu Aug 17 18:07:09 IST 2023","10078","src.python.tests","test_TC_004_delete_content","","","","test_delete_file","delete_content.feature: Delete File"
+"failed","Thu Aug 17 18:06:47 IST 2023","Thu Aug 17 18:06:57 IST 2023","10446","src.python.tests","test_TC_004_delete_content","","","","test_delete_folder","delete_content.feature: Delete Folder"
+"broken","Thu Aug 17 18:06:33 IST 2023","Thu Aug 17 18:06:46 IST 2023","12362","src.python.tests","test_TC_003_upload_content","","","","test_upload_file","upload_content.feature: Upload File"
+"failed","Thu Aug 17 18:07:10 IST 2023","Thu Aug 17 18:07:20 IST 2023","10297","src.python.tests","test_TC_005_user_logout","","","","test_user_logout","user_logout.feature: Successful Logout"
+"passed","Thu Aug 17 18:06:13 IST 2023","Thu Aug 17 18:06:27 IST 2023","13657","src.python.tests","test_TC_001_user_login","","","","test_successful_login[subassan8@gmail.com-#ABC123@]","user_login.feature: Successful login"
