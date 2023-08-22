@@ -47,7 +47,7 @@ Before diving into the framework, ensure you have the following software compone
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Sumit-QA-Engineer/Mobile-Automation-Framework-Python-and-Pytest-bdd.git
+   git clone https://github.com/Sumit-QA-Engineer/Mobile_Automation_Framework_Python.git
 
 2. Create a virtual environment (recommended):
 
